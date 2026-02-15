@@ -1,0 +1,14 @@
+[package]
+name = "lingenic-compose-character"
+version = "0.1.0"
+edition = "2021"
+description = "｢‍｣ Lingenic Compose Character: CJK font primitives using pen-path and brush-path"
+license = "Apache-2.0"
+repository = "https://github.com/lingenic/lingenic-compose-character"
+readme = "README.md"
+keywords = ["cjk", "font", "calligraphy", "stroke", "chinese"]
+categories = ["text-processing", "graphics"]
+
+[dependencies]
+pen-path = { package = "lingenic-compose-pen-path", path = "../lingenic-compose-pen-path" }
+brush-path = { package = "lingenic-compose-brush-path", path = "../lingenic-compose-brush-path" }
