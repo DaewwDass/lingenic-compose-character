@@ -16,8 +16,8 @@
 
 ## Dependencies
 
-- [Lingenic Pen-Path](../lingenic-compose-pen-path) — Rigid pen stroke primitives
-- [Lingenic Brush-Path](../lingenic-compose-brush-path) — Flexible brush stroke primitives
+- [Lingenic Pen-Path](https://github.com/LingenicLLC/lingenic-compose-pen-path) — Rigid pen stroke primitives
+- [Lingenic Brush-Path](https://github.com/LingenicLLC/lingenic-compose-brush-path) — Flexible brush stroke primitives
 
 ## Multilingual Keywords
 
