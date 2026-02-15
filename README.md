@@ -1,6 +1,6 @@
 # ｢‍｣ Lingenic Compose 字
 
-｢‍｣ Lingenic Compose 字 encodes classical calligraphy theory as machine-readable primitives. A `.字` file describes how a brush moves to create each character: the entry and exit of the tip, pressure variations along the stroke, brush actions at each point, and connections between strokes. It captures not just what a character looks like, but how it is written.
+｢‍｣ Lingenic Compose 字 encodes classical calligraphy theory as machine-readable primitives. A .字 file describes how a brush moves to create each character: the entry and exit of the tip, pressure variations along the stroke, brush actions at each point, and continuity and breaks between strokes. It captures not just what a character looks like, but how it is written.
 
 **漢文** ｢‍｣ Lingenic 字，以古法書論為機讀元語。字檔記筆之運行：鋒之入出、輕重之變、頓提折轉、筆勢連斷。非徒錄其形，亦述其書法也。
 
